@@ -1,0 +1,2 @@
+%cd /content/BenchMARL/benchmarl/environments/
+ !pip install -e .
